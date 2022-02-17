@@ -1,0 +1,7 @@
+use_frameworks!
+target 'Announcement' do 
+ 
+ pod 'GoogleSignIn', '~> 5.0'
+ pod 'IQKeyboardManagerSwift'
+
+end
